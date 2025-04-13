@@ -29,7 +29,8 @@ These implementations helped me earn a 4 rating (Very Good) from the reviewer:
 The final trained model achieved an accuracy of 94% and successfully performed inference on new images — proving that the CNN architecture was effectively trained and generalized well.
 This achievement enabled me to pass the Intermediate Level with a high score and continue my learning journey at the Expert Level of IDCamp 2024.
 
-### Note: To fix the error of not being able to load the dataset from Kaggle, add the following code below after uploading the kaggle.json file.
+### Note: 
+To fix the error of not being able to load the dataset from Kaggle, add the following code below after uploading the kaggle.json file.
 ```
 # Buat direktori .kaggle jika belum ada
 os.makedirs("/root/.kaggle", exist_ok=True)
