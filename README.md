@@ -1,4 +1,4 @@
-# 🧠 Final Project - Image Classification with CNN | IDCAMP 2024
+# Final Project - Image Classification with CNN | IDCAMP 2024
 
 ## 📘 About the Project
 This project is my final submission to graduate from IDCamp 2024 – Intermediate Level. I'm proud to be one of the 1,950 selected scholars who successfully advanced to this stage after completing the Basic Level.
